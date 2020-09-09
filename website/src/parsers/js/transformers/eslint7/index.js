@@ -16,7 +16,7 @@ export default {
       [
         'eslint7/lib/linter',
         'eslint7/lib/source-code',
-        '../../utils/eslint4Utils',
+        '../../utils/eslint7Utils',
       ],
       (linter, sourceCode, utils) => callback({eslint: new linter.Linter(), sourceCode, utils}),
     );
