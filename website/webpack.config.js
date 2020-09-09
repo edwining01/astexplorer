@@ -162,6 +162,7 @@ module.exports = Object.assign({
           path.join(__dirname, 'node_modules', 'eslint-visitor-keys'),
           path.join(__dirname, 'node_modules', 'eslint3'),
           path.join(__dirname, 'node_modules', 'eslint4'),
+          path.join(__dirname, 'node_modules', 'eslint7'),
           path.join(__dirname, 'node_modules', 'jscodeshift', 'src'),
           path.join(__dirname, 'node_modules', 'lodash-es'),
           path.join(__dirname, 'node_modules', 'prettier'),
